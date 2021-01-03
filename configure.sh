@@ -40,5 +40,5 @@ cat << EOF > /usr/local/etc/xray/config.json
 }
 EOF
 
-# Run V2Ray
+# Run XRay
 /usr/local/bin/xray -config /usr/local/etc/xray/config.json
